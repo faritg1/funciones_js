@@ -1,4 +1,4 @@
-const person ={
+/* const person ={
     name: "pepe",
     lastname: "perez",
     age: 30,
@@ -11,4 +11,19 @@ for (let atri in person){
 
 for(let ele of number){
     console.log(ele)
+} */
+
+/* declarada */
+/* function mostrar(){
+
 }
+/*expresad*/
+/* const muestra = function (){
+
+}  */
+
+function sumar(a,b) {
+    let suma = a+b
+    console.log(suma)
+}
+sumar(2,3)
